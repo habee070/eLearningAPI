@@ -1,1 +1,1 @@
-# DemoSolution
+# eLearningSolution
