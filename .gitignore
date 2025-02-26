@@ -47,3 +47,6 @@ yarn.lock
 *.sqlite
 *.db
 
+# Vs Code
+.vs/
+
