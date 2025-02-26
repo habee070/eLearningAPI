@@ -1,0 +1,49 @@
+# Build output
+bin/
+obj/
+out/
+*.exe
+*.dll
+*.pdb
+*.app/
+
+# Visual Studio files
+.vscode/
+.idea/
+*.suo
+*.user
+*.userosscache
+*.sln.cache
+
+# ASP.NET environment
+appsettings.Development.json
+appsettings.Production.json
+secrets.json
+
+# Logs & Debug
+*.log
+logs/
+Debug/
+Release/
+
+# Entity Framework
+Migrations/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Dependencies
+node_modules/
+package-lock.json
+yarn.lock
+
+# Rider / JetBrains IDE
+.idea/
+
+# Local databases
+*.mdf
+*.ldf
+*.sqlite
+*.db
+
